@@ -1,0 +1,61 @@
+body{
+    margin:0px;
+}
+.header{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.5)),url(images/back.jpg);
+    width:100%;height:740px;
+    position:relative;
+    background-size: cover;
+}
+.language{
+    display: flex;
+    flex-direction: row;
+}
+div.fullpage{
+    
+}
+.down{
+    background-color: black;
+    height:2500px;
+    position: relative;bottom:26px;
+}
+.downone h1{
+    color: white;position:absolute;top:900px;left:120px;
+}
+.downone p{
+    color: white;position: absolute;top:980px;left:120px;
+}
+.downone img{
+    position: absolute;left:650px;top:820px;
+    height:380px;width:470px;
+}
+.downtwo h1{
+    color: white;position:absolute;left:650px;top:1370px;
+}
+.downtwo p{
+    color: white;position: absolute;top:1570px;left:650px;
+}
+.downtwo img{
+    position: absolute;top:1380px;left:120px;
+    height:340px;width:440px;
+}
+.downthree h1{
+color: white;position:absolute;top:1930px;left:120px;
+}
+.downthree p{
+    color: white;position: absolute;top:2020px;left:120px;
+}
+.downthree img{
+    position: absolute;left:650px;top:1890px;
+    height:380px;width:470px;
+}
+.downfour h1{
+    color: white;position:absolute;top:2400px;left:650px;
+}
+.downfour p{
+    color: white;position: absolute;top:2620px;left:650px;
+}
+.downfour img{
+    position: absolute;top:2400px;left:120px;
+    height:340px;width:440px;
+}
